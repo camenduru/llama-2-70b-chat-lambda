@@ -12,9 +12,16 @@ app_file: app.py
 
 ### Main Repo
 https://github.com/oobabooga/text-generation-webui
+https://github.com/facebookresearch/llama
+
+### Model
+https://huggingface.co/meta-llama/Llama-2-70b-chat-hf (Thanks to meta-llama ❤)
 
 ### Page
+https://ai.meta.com/llama/
 
 ### Paper
+https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/
 
 ### License
+https://huggingface.co/meta-llama/Llama-2-70b-chat-hf/blob/main/LICENSE.txt
