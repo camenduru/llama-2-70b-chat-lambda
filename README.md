@@ -11,8 +11,8 @@ app_file: app.py
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
 ### Main Repo
-https://github.com/oobabooga/text-generation-webui <br />
 https://github.com/facebookresearch/llama <br />
+https://github.com/oobabooga/text-generation-webui <br />
 
 ### Model
 https://huggingface.co/meta-llama/Llama-2-70b-chat-hf (Thanks to meta-llama ❤)
